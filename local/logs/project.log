@@ -1,0 +1,227 @@
+2019-07-08T06:06:30.929Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-08T06:06:31.050Z - normal: Initializing Asset Database
+2019-07-08T06:06:31.055Z - normal: checking language setting...
+2019-07-08T06:06:31.056Z - normal: Language: zh
+2019-07-08T06:06:31.978Z - success: preview server running at http://localhost:7456
+2019-07-08T06:06:32.047Z - success: protocol editor-framework registered
+2019-07-08T06:06:32.047Z - success: protocol app registered
+2019-07-08T06:06:32.048Z - success: protocol theme registered
+2019-07-08T06:06:32.048Z - success: protocol packages registered
+2019-07-08T06:06:32.048Z - success: protocol uuid registerred
+2019-07-08T06:06:32.048Z - success: protocol db registerred
+2019-07-08T06:06:32.049Z - success: protocol thumbnail registerred
+2019-07-08T06:06:32.049Z - success: protocol unpack registerred
+2019-07-08T06:06:32.049Z - success: protocol disable-commonjs registerred
+2019-07-08T06:06:32.225Z - normal: connected!
+2019-07-08T06:06:32.226Z - normal: Check project /Users/yidong/Desktop/game_demo2
+2019-07-08T06:06:32.228Z - normal: Initializing project /Users/yidong/Desktop/game_demo2
+2019-07-08T06:06:32.720Z - normal: Initializing Cocos2d
+2019-07-08T06:06:33.635Z - normal: Initializing engine extends
+2019-07-08T06:06:33.694Z - success: asset-db-debugger loaded
+2019-07-08T06:06:33.696Z - success: baidu-adapter loaded
+2019-07-08T06:06:33.696Z - success: color-picker loaded
+2019-07-08T06:06:33.800Z - success: fb-audience-network loaded
+2019-07-08T06:06:33.864Z - success: fb-live-stream loaded
+2019-07-08T06:06:33.867Z - success: google-play-instant loaded
+2019-07-08T06:06:33.873Z - success: huawei-runtime loaded
+2019-07-08T06:06:34.145Z - success: cpk-publish loaded
+2019-07-08T06:06:34.146Z - success: jsb-adapter loaded
+2019-07-08T06:06:34.153Z - success: oppo-runtime loaded
+2019-07-08T06:06:34.169Z - success: package-manager loaded
+2019-07-08T06:06:34.308Z - success: qqplay-adapter loaded
+2019-07-08T06:06:34.311Z - success: runtime-dev-tools loaded
+2019-07-08T06:06:34.329Z - success: sdkbox loaded
+2019-07-08T06:06:34.346Z - success: tester loaded
+2019-07-08T06:06:34.369Z - success: ui-grid loaded
+2019-07-08T06:06:34.384Z - success: ui-kit-preview-extra loaded
+2019-07-08T06:06:34.398Z - success: ui-kit-preview loaded
+2019-07-08T06:06:34.413Z - success: ui-kit loaded
+2019-07-08T06:06:34.427Z - success: ui-tree loaded
+2019-07-08T06:06:34.433Z - success: vivo-runtime loaded
+2019-07-08T06:06:34.434Z - success: weapp-adapter loaded
+2019-07-08T06:06:34.435Z - success: xiaomi-adapter loaded
+2019-07-08T06:06:34.493Z - success: assets loaded
+2019-07-08T06:06:34.508Z - success: builder loaded
+2019-07-08T06:06:34.827Z - success: cocos-services loaded
+2019-07-08T06:06:34.846Z - success: console loaded
+2019-07-08T06:06:34.880Z - success: fb-instant-games loaded
+2019-07-08T06:06:34.882Z - success: google-instant-games loaded
+2019-07-08T06:06:34.899Z - success: hierarchy loaded
+2019-07-08T06:06:34.918Z - success: inspector loaded
+2019-07-08T06:06:34.920Z - success: keystore loaded
+2019-07-08T06:06:34.940Z - success: node-library loaded
+2019-07-08T06:06:34.942Z - success: package-asset loaded
+2019-07-08T06:06:34.944Z - success: preferences loaded
+2019-07-08T06:06:34.958Z - success: project-exporter loaded
+2019-07-08T06:06:34.975Z - success: project-importer loaded
+2019-07-08T06:06:34.991Z - success: project-settings loaded
+2019-07-08T06:06:35.007Z - success: scene loaded
+2019-07-08T06:06:35.009Z - success: simulator-debugger loaded
+2019-07-08T06:06:35.011Z - success: sprite-editor loaded
+2019-07-08T06:06:35.028Z - success: store loaded
+2019-07-08T06:06:35.045Z - success: timeline loaded
+2019-07-08T06:06:35.068Z - success: xiaomi-runtime loaded
+2019-07-08T06:06:36.979Z - info: Cocos Services load base data!
+2019-07-08T06:06:36.979Z - normal: Loading packages
+2019-07-08T06:06:36.984Z - normal: Watching packages
+2019-07-08T06:06:37.235Z - normal: Run Application
+2019-07-08T07:45:33.880Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:33.882Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:34.093Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:34.095Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:34.298Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:34.298Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:34.613Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:34.613Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:35.139Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:35.140Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:35.140Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:35.141Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:35.267Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:35.272Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-08T07:45:36.283Z - error: Unknown object to restore
+    at p (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:2366)
+    at Object.restoreNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/scene-undo-impl.js:1:3172)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1341)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+2019-07-08T07:45:36.283Z - error: TypeError: Cannot read property '_name' of null
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:1490)
+    at n.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:508)
+    at d.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1201)
+    at Object.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:8075)
+    at HTMLElement.undo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene-undo.js:1:225)
+    at Object.e._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1941)
+    at EventEmitter.o.on.s (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2921)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)

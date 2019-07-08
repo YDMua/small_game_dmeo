@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shot_line",
+    "texture": "e0576aba-d9a8-403b-a541-41b47b0219b8",
+    "atlas": "",
+    "rect": [
+      15,
+      0,
+      22,
+      1357
+    ],
+    "offset": [
+      1,
+      71.5
+    ],
+    "originalSize": [
+      50,
+      1500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
